@@ -1,0 +1,169 @@
+#EXTM3U
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/6miysb8.png" group-title="Undefined",24/7 Canal de Noticias,CN 24/7
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Undefined",Puncón TV (1080p) [Not 24/7]
+https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="MEXICO",Cartoonito México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/512px-Meganoticias2019.png" group-title="News",Meganoticias (720p) [Not 24/7]
+https://ythls.onrender.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Undefined",24h Catalunya
+https://ztnr.rtve.es/ztnr/4952053.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL;CO;PA;PE" tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Undefined",Telefe Internacional (720p) [Not 24/7]
+https://siloh.pluto.tv/lilo/production/TelefePluto/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="MEXICO",Cartoon Network México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="MEXICO",Coahuila)
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/512px-Nueve_%282018_logo%29.png" group-title="MEXICO",El NU9VE (1080p)
+https://linear-352.frequency.stream/352/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO;MX;PA" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment;MEXICO",RCN Más (1080p)
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/Vp4B0BM.jpg" group-title="MEXICO",Televisa Guadalajara (1080p)
+https://linear-402.frequency.stream/402/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="General",Best Cable Peru
+https://ca2.inka.net.pe/bestcable/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/nflqmSC.png" group-title="Sport",Best Cable Sports Peru
+https://ca2.inka.net.pe/bestcablesports/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/pC57NYv.png" group-title="General",Cajamarca TV (480p)
+https://ca2.inka.net.pe/cajamarcatv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png" group-title="Family",Canal IPe
+https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/FI1Hd4E.png" group-title="Undefined",IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",24 HORAS
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/5550.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",AMC HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/9919?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",ANTENA 3
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/5555.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",AXN HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/9924?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Sport",BEIN SPORTS ESPANA
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/24040.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Bein Sports LaLiga
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKsm1QLF590kcaDkeQtuvKI/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png" group-title="Undefined",Bloomberg TV EMEA Live Event
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/285720?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png" group-title="Undefined",Bloomberg TV Europe
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/285843?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/90WOoro.png" group-title="SPAIN",Bon Dia TV (1080p)
+https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png" group-title="Undefined",CNN en Espanol
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/31762?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",COMEDYCENTRALHD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/9943?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",COMEDY CENTRAL
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/5584.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",CUATRO
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/9946?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",DAZN 1
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/9948?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",DAZN 1 HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/9949?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",DAZN 2 HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/9951?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",DAZN 3 HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/9953?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",DAZN 4 HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/9955?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",DISCOVERY
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/5594.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",DISCOVERY MAX
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/5601.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",DISNEY CH.
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/9960?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png" group-title="Sport",ESPN
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/90708?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png" group-title="Sport",ESPN 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/281480?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Sport",ESPN DEPORTES
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/5605.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png" group-title="Sport",EUROSPORT 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1160?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Sport",EUROSPORT 1
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/5607.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Sport",EUROSPORT 2
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/5608.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",FOX HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/9971?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOX Life
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.life.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png" group-title="Sport",FOX SPORTS 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/89723?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",FOX
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/5612.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png" group-title="Sport",FOX SPORTS 3
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/89722?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png" group-title="Undefined",France 24
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9148?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",GOL TV
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJBTQsQGdY_XZQh1kgT34SM/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png" group-title="Undefined",HBO Signature
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/91989?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",HISTORIA
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/5618.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Historia
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/historia.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",LA 1 HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/9980?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",LA 2
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/9981?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",LA Liga FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIeTrchbI6q2kI9DZ_1qWJI/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",LA SEXTA
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/5625.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",LaLigaTV HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLPv5IJGGYI9P-UO-_q-2cI/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",M+ COMEDIA
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/5636.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",M+ LALIGA
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/5758.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",M. LA LIGA DE CAMPEONES (SOLO EVENTOS)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SADRhuqNWDMXIrx-FskMNCI/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",M. LaLiga 2 HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10006?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",M. LaLiga 3 HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10008?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",M. LaLiga HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10011?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png" group-title="Undefined",Mega
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2190?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Mega
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mega.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",NAT GEO
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/5714.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",NAT GEO WILD
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/5715.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",NICK JR
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10029?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",NICKELODEON
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10030?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",PARAMOUNT
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10033?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",PARAMOUNT CHANNEL
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/5727.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",TCM HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10039?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",TVE INTERNACIONAL
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/5745.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png" group-title="Undefined",TVE Internacional Europa
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/5943?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png" group-title="Undefined",TVE La 1 Madrid
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1151?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png" group-title="Undefined",TVE La 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1150?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/YAnSTc6.jpg" group-title="Undefined",TVG América
+https://america-crtvg.flumotion.com/crtvg/america_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Telecinco
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/telecinco.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Teledeporte
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/teledeporte.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png" group-title="Undefined",euronews en Espanol
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/282292?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",laSexta
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/lasexta.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png" group-title="Undefined",nickelodeon
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2218?checkedby:iptvcat.com
